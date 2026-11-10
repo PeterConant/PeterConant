@@ -8,7 +8,7 @@ off people's plates and make measurable improvements to workplace productivity.
 
 **[Agentic text-to-SQL pipeline](https://github.com/PeterConant/PIPELINE-OPTIMIZATION-OF-AGENTIC-LLMS-FOR-TEXT-TO-SQL)**
 — my M.S. thesis. A multi-step LLM pipeline that turns questions into SQL. Accuracy on the
-BIRD benchmark went from 35% to 48%, and latency from about 5 s to 1–2 s.
+BIRD benchmark went from 35% to 43%, and latency from about 5 s to 1–2 s.
 [Thesis](https://scholarworks.sjsu.edu/etd_theses/5796/)
 
 **[Healthy Eating Chatbot](https://github.com/PeterConant/HealthyEatingChatBot)** — local
